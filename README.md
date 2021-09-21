@@ -11,4 +11,4 @@ Those with primary anxiety occassionally are able to harness it to achieve unpar
 Footnotes:
 
 1. This terminology is derived from "primary hypertension"/"essential hypertension", which is used to describe hypertension which is "of unknown origin". Guyton and Hall Textbook of Medical Physiology, page 240.  
-2. 
+2. According to Maslow's Hierarchy, "deficiency needs" are the four bottom-most layers of the hierarchy: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
