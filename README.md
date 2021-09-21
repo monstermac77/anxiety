@@ -6,8 +6,9 @@ It appears as though anxiety almost acts as a positive punishment to discourage 
 
 Much of the anxiety people experience is episodic and in response to specific events, but when anxiety turns pernicious is when it is sustained and with unidentifiable cause. We'll refer to this as primary (or essential) anxiety<sup>1</sup>. The underlying cause of primary anxiety is likely genetic (some brain chemistry predisposition), learned secondhand (from observing parents/family/friends/partners respond to stimuli), learned firsthand via trauma (PTSD, extreme conditions like starvation), or some combination thereof. 
 
-Those with primary anxiety sometimes appear to harness it to achieve unparalleled productivity. TODO: finish this paragraph, 50% of people died by suicide described loved ones as perfectionists. 
+Those with primary anxiety occassionally are able to harness it to achieve unparalleled productivity, provided their deficiency needs (water, food, shelter, health, security) as described in Maslow's Hierarchy<sup>2</sup> are being met. TODO: finish this paragraph, 50% of people died by suicide described loved ones as perfectionists. 
 
 Footnotes:
 
 1. This terminology is derived from "primary hypertension"/"essential hypertension", which is used to describe hypertension which is "of unknown origin". Guyton and Hall Textbook of Medical Physiology, page 240.  
+2. 
