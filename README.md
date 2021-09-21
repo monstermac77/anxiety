@@ -12,3 +12,4 @@ Footnotes:
 
 1. This terminology is derived from "primary hypertension"/"essential hypertension", which is used to describe hypertension which is "of unknown origin". Guyton and Hall Textbook of Medical Physiology, page 240.  
 2. According to Maslow's hierarchy, "deficiency needs" are the four bottom-most layers of the hierarchy: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+3. The Relationship Between Anxiety Disorders and Suicide Attempts: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940247/
