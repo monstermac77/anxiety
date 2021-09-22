@@ -12,6 +12,8 @@ Those with primary anxiety occassionally are able to harness it to achieve unpar
 
 The mechanism by which primary anxiety translates into completionism and perfectionism is rather intuitive. One can think of primary anxiety as a pre-disorder form of Generalized Anxiety Disorder (GAD). That is, before the symptoms of GAD begin to interfere with daily life. Thus, the symptoms of primary anxiety should be lighter versions of GAD's: persistent worrying about a number of areas that are out of proportion to the impact of the events, overthinking plans and solutions to all possible worst-case outcomes, difficulty handling uncertainty, indecisiveness and fear of making the wrong decision, and the inability to set aside or let go of a worry<sup>5</sup>
 
+TODO: finish this thought and begin on measurement 
+
 # Measurement
 
 
