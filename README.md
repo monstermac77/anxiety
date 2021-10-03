@@ -14,7 +14,14 @@ Those with primary anxiety occassionally are able to harness it to achieve unpar
 
 # Symptoms and measurement
 
-One can think of primary anxiety as a pre-disorder form of Generalized Anxiety Disorder (GAD). That is, before the symptoms of GAD begin to interfere with daily life and it becomes a disorder. Thus, the symptoms of primary anxiety should be lighter versions of GAD's, which are: persistent worrying about a number of areas that are out of proportion to the impact of the events, overthinking plans and solutions to all possible worst-case outcomes, difficulty handling uncertainty, indecisiveness and fear of making the wrong decision, and the inability to set aside or let go of a worry<sup>5</sup>. When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources, environment, and life path. A common manifestation of this control is inflexibility: those with moderate primary anxiety may attempt to control the actions of others in their life if they percieve those actions have a negative impact on them. Those with severe primary anxiety may even have panic attacks when there is a deviation from expectations. The mechanism by which primary anxiety translates into completionism and perfectionism is rather intuitive: completing all desired tasks and doing so with perfection is a natural way of attempting to stave off additional hardship (that is, experiencing a suboptimal outcome).
+One can think of primary anxiety as a pre-disorder form of Generalized Anxiety Disorder (GAD). That is, before the symptoms of GAD begin to interfere with daily life and it becomes a disorder. Thus, the symptoms of primary anxiety should be lighter versions of GAD's<sup>5</sup>, which are: 
+* Persistent worrying about a number of areas that are out of proportion to the impact of the events
+* Overthinking plans and solutions to all possible worst-case outcomes
+* Difficulty handling uncertainty
+* Indecisiveness and fear of making the wrong decision
+* The inability to set aside or let go of a worry 
+
+When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources, environment, and life path. A common manifestation of this control is inflexibility: those with moderate primary anxiety may attempt to control the actions of others in their life if they percieve those actions have a negative impact on them. Those with severe primary anxiety may even have panic attacks when there is a deviation from expectations. The mechanism by which primary anxiety translates into completionism and perfectionism is rather intuitive: completing all desired tasks and doing so with perfection is a natural way of attempting to stave off additional hardship (that is, experiencing a suboptimal outcome).
 
 (Purely anecdotal) manifestations/measurements of primary anxiety are as follows: 
 * One's ability to speak continuously without a break for thought (eloquence)
