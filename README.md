@@ -22,7 +22,6 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 * One's ability to make sustained eye contact
 * One's sensitivity to physical pain/discomfort
 * One's strength to be secretive/withhold information in the face of pressure
-* One's enjoyment of music
 * One's openness to: 
   *  Trying new foods
   *  Dancing
