@@ -45,6 +45,8 @@ When in a state of primary anxiety, one acts as though they can't handle any add
 
 # Treatment
 
+Neuroplasticity sits at the core of treatement for primary anxiety, but it's important to recognize that, like many biological systems, changes take effort over time. Thus while treatment is underway, it's imperative that the patient is made as comfortable as possible and their desires, however unreasonable, are catered to. For instance, say your partner, who is currently suffering from severe primary anxiety, prefers to drink Coke over Pepsi. If you take them out to dinner and it turns out that the restauraunt only has Pepsi, as unreasonable as it may seem, you should go to a different restauraunt to avoid distressing your partner. Even an event like this . One of the worst possible situations is two cohabitants who are both struggling with primary anxiety; treatment for both individuals is necessary, otherwise the treatement of one will likely be undone over time by continuing to live with the other: you have to remove the entirety of the cancer, not just half of it. Anxiety very much is a mentally transmitted disease (MTD).   
+
 Footnotes:
 
 1. This terminology is derived from "primary hypertension"/"essential hypertension", which is used to describe hypertension which is "of unknown origin". Primary anxiety that begins to interfere with daily life would likely be classified as Generalized Anxiety Disorder. Guyton and Hall Textbook of Medical Physiology, page 240.  
