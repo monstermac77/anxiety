@@ -18,9 +18,15 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 * How long speech can be continued without a break for thought (eloquence)
 * The amount of time one can comfortably sit in silence with their thoughts without taking action or consuming media (television, music, a podcast, etc.)
 * One's typing speed compared to their baseline
+* The ease with which one decides what to purchase among multiple options (e.g. which vaccum cleaner to choose)
+* One's ability to make sustained eye contact
+* One's sensitivity to physical pain/discomfort
+* One's strength to be secretive/withhold information in the face of pressure
 * One's openness to: 
   *  Trying new foods
   *  Dancing
+  *  Sharing resources (food, money, etc.)
+  *  Making jokes
   *  
 
 
