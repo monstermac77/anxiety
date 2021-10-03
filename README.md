@@ -27,7 +27,7 @@ When in a state of primary anxiety, one acts as though they can't handle any add
 * One's ability to speak continuously without a break for thought (eloquence)
 * One's comfort with sitting in silence with their thoughts without taking action or consuming media (television, music, a podcast, etc.)
 * One's typing speed compared to their baseline
-* One's ability to decide what to purchase among multiple options (e.g. which vaccum cleaner to choose, which laundromat to do laundry at)
+* One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which laundromat/restauraunt to go to, which movie to see)
 * One's ability to make sustained eye contact
 * One's sensitivity to physical pain/discomfort
 * One's strength to be secretive/withhold information in the face of pressure
