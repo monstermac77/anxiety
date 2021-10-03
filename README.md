@@ -30,7 +30,7 @@ When in a state of primary anxiety, one acts as though they can't handle any add
 * One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which laundromat/restauraunt to go to, which movie to see)
 * One's ability to make sustained eye contact
 * One's sensitivity to physical pain/discomfort
-* One's strength to be secretive/withhold information in the face of pressure
+* One's ability to withhold information in the face of pressure
 * One's openness to: 
   *  Trying new foods
   *  Dancing
