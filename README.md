@@ -37,7 +37,7 @@ When in a state of primary anxiety, one acts as though they can't handle any add
   *  Sharing resources (food, money, sponges, etc.)
   *  Making jokes
   *  Meeting new people
-* One's proclivity to confirm/double check: 
+* One's proclivity to repeatedly check: 
   * That morning alarms are set
   * That doors are locked
   * That medication has been taken
