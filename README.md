@@ -27,10 +27,14 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 * One's openness to: 
   *  Trying new foods
   *  Dancing
-  *  Sharing resources (food, money, etc.)
+  *  Sharing resources (food, money, sponges, etc.)
   *  Making jokes
   *  Meet new people
-
+* One's proclivity to confirm/double check: 
+  * Morning alarms are set
+  * That doors are locked
+  * That medication has been taken
+  * That items have not been left behind
 
 # Treatment
 
