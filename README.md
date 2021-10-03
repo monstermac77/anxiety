@@ -32,9 +32,9 @@ When in a state of primary anxiety, one acts as though they can't handle any add
 * One's sensitivity to physical pain/discomfort
 * One's ability to withhold information in the face of pressure
 * One's openness to: 
+  *  Sharing resources (food, money, sponges, etc.)
   *  Trying new foods
   *  Dancing
-  *  Sharing resources (food, money, sponges, etc.)
   *  Making jokes
   *  Meeting new people
 * One's proclivity to repeatedly check: 
