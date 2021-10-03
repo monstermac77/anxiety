@@ -29,7 +29,7 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
   *  Dancing
   *  Sharing resources (food, money, etc.)
   *  Making jokes
-  *  
+  *  Meet new people
 
 
 # Treatment
