@@ -16,7 +16,7 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 
 Anecdotal manifestations/measurements of primary anxiety are as follows: 
 * How long speech can be continued without a break for thought (eloquence)
-* The amount of time one can comfortably sit in silence with their thoughts
+* The amount of time one can comfortably sit in silence with their thoughts without taking action or consuming media (telivision, music, a podcast, etc.)
 * One's openness to trying new foods
 * One's typing speed compared to their baseline
 
