@@ -21,7 +21,7 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 * Indecisiveness and fear of making the wrong decision
 * The inability to set aside or let go of a worry 
 
-When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources, environment, and life path. A common manifestation of this control is inflexibility: those with moderate primary anxiety may attempt to control the actions of others in their life (especially roommates and partners) if they percieve those actions have even a slight negative impact on them. Those with severe primary anxiety may even demand control over the actions of others when said actions do not impact them at all, or they may have panic attacks when there are even small deviations from expectations.
+When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources, environment, and life path. A common manifestation of this control is inflexibility: those with moderate primary anxiety may attempt to control the actions of others in their life (especially roommates and partners) if they percieve those actions have even a slight negative impact on them. Those with severe primary anxiety may even demand control over the actions of others when said actions do not impact them at all, or they may have panic attacks when there are even small deviations from expectations. TODO: Risk minimization and diligence boost, getting things done that could be the source.
 
 (Purely anecdotal) manifestations/measurements of primary anxiety are as follows: 
 * One's ability to speak continuously without a break for thought (eloquence)
@@ -51,7 +51,7 @@ One of the worst possible situations is two cohabitants who are both struggling 
 
 The anticipation of events also appears to exacerbate the experience of anxiety (in both healthy adults and those with primary anxiety). Studies found that _prior_ to being asked to touch a hot stove<sup>6,</sup><sup>7</sup> or being shown an aversive picture<sup>8</sup>, the amygdala (a region of the brain associated with anxiety) showed anticipatory activity. In fact, in those with GAD, the amygdala was activated preceding being shown both aversive and neutral pictures. Thus, it's likely beneficial to reduce or eliminate planning events with those who are suffering from primary anxiety, as even the anticipitation of an event (whether innocuous or not) is likely to be distressing. To the extent possible, decisions made about events/activities should be allowed to be spur-of-the-moment at the onset of said event/activity, rather than in advance.
 
-TODO: finish anticipation (possibly) and start on anxiey attaching to various things as a way of trying to fix the cause.
+TODO: continue distilling the raw notes into here.
 
 Footnotes:
 
