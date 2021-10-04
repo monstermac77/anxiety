@@ -51,6 +51,8 @@ One of the worst possible situations is two cohabitants who are both struggling 
 
 Anticipation also appears to exacerbate the experience of anxiety (in both healthy adults and those with primary anxiety). Specifically, _prior_ to being asked to touch a hot stove<sup>6,</sup><sup>7</sup> or being shown an aversive picture<sup>8</sup>, the amygdala (a region of the brain associated with anxiety) showed anticipatory activity. In fact, in those with GAD, the amygdala was activated preceding being shown both aversive and neutral pictures. Thus, it's likely beneficial to reduce or eliminate planning events with those who are suffering from primary anxiety, as even the anticipitation of an event (whether innocuous or not) is likely to be distressing. To the extent possible, decisions made should be allowed to be spur-of-the-moment. 
 
+TODO: finish anticipation (possibly) and start on anxiey attaching to various things as a way of trying to fix the cause.
+
 Footnotes:
 
 1. This terminology is derived from "primary hypertension"/"essential hypertension", which is used to describe hypertension which is "of unknown origin". Primary anxiety that begins to interfere with daily life would likely be classified as Generalized Anxiety Disorder. Guyton and Hall Textbook of Medical Physiology, page 240.  
