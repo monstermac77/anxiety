@@ -31,7 +31,7 @@ As an attempt to settle the underlying nebulous unease, primary anxiety screams 
 * One's typing speed compared to their baseline
 * One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which item to order, which laundromat to go to, which movie to watch)
 * One's ability to make sustained eye contact
-* One's sensitivity to physical pain/discomfort
+* One's sensitivity to physical pain and physical discomfort (sensitivity to hot, cold, dry, wet, etc.)
 * One's ability to withhold information in the face of pressure
 * One's openness to: 
   *  Sharing resources (food, money, sponges, etc.)
