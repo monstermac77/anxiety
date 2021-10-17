@@ -1,4 +1,8 @@
-Note: the psychological and physiological conclusions made here are conjecture unless a source is specifically provided. 
+# Preface
+
+If you have feedback on this essay or would like to chat, I spend most nights from 9pm to 12am in Washington Square Park (I sit on the south side of the fountain on the benches that surround a tree). 
+
+The psychological and physiological conclusions made here are conjecture unless a source is specifically provided. 
 
 TODO: fix the damn footnotes. 
 
