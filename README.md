@@ -4,7 +4,7 @@ If you have feedback on this essay or would like to chat, I spend most nights ta
 
 The psychological and physiological conclusions made here are conjecture unless a source is specifically provided. 
 
-Humanity has a tendency to distance itself from the rest of the animal kingdom, as if there was some bifurcation in our evolution long ago. But Homo sapiens have walked the earth for 300,000 years, compared to the 3,500,000,000 years that life has evolved on earth; that means that 99.991% of our evolution is still shared. It seems reasonable, then, to interpret much of human behavior through an evolutionary lens.
+Humanity has a tendency to distance itself from the rest of the animal kingdom, as if there was some bifurcation in our evolutionary paths long ago. But Homo sapiens have walked the earth for 300,000 years, compared to the 3,500,000,000 years that life has evolved on earth; that means that 99.991% of our natural selection is still shared. It seems reasonable, then, to interpret much of human behavior through an evolutionary lens. Our habits, our responses to stimuli, our behavior, is likely no different at its core from that of our evolutionary predecessors.
 
 TODO: fix the damn footnotes. 
 
