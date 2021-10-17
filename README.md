@@ -4,6 +4,8 @@ If you have feedback on this essay or would like to chat, I spend most nights ta
 
 The psychological and physiological conclusions made here are conjecture unless a source is specifically provided. 
 
+Humanity has a tendency to distance itself from the rest of the animal kingdom, as if there was some bifurcation in our evolution long ago. But Homo sapiens have walked the earth for 300,000 years, compared to the 3,500,000,000 years that life has evolved on earth; that means that 99.991% of our evolution is still shared. It seems reasonable, then, to interpret much of human behavior through an evolutionary lens.
+
 TODO: fix the damn footnotes. 
 
 # Origins
@@ -31,9 +33,9 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 
 When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources, environment, and life path. A common manifestation of this control is inflexibility and intolerance: those with moderate primary anxiety may attempt to control the actions of others in their life (especially roommates and partners) if they percieve those actions have even a slight negative impact on them. Those with severe primary anxiety may even demand control over the actions of others when said actions do not impact them at all, or they may have panic attacks when there are even small deviations from expectations. 
 
-TODO: hiding/running during. Moving, driving, running. Hiding. Etc. 
-
 As an attempt to settle the underlying nebulous unease, primary anxiety screams to the conscious "`x` needs to change for me to go away", where `x` is in constant flux. This results in a perpetual and incredibly uncomfortable state of unrest, during which the anxiety appears to attach itself to every aspect of one's life (e.g. "maybe re-using this disposable water bottle is causing my daily nausea", "maybe the onions I had in last night's dinner are causing my morning gastroesophageal reflux disease (GERD)", "maybe I just need to finally vaccum the entire apartment", "maybe I just need to drop off that letter at the post office", "maybe it's the unpaid credit card bill that's causing all of this stress"). The state of action (working on a task that's been stuck on your to-do list) or distraction (e.g. chopping tomatoes for your partner's dinner) are the only states where this discomfort is abated. More passive activities, such as watching TV, reading, listening to music, etc. are too regularly interrupted by the mind's eye refocusing itself on that everpresent feeling of unease and the next proposed action that could finally be the fix. By the end of each day, this guessing game and the incessant journeys that follow finally come to an end with the onset of the anxious mind's most enjoyable activity: sleep.
+
+Anecdotally, it appears as though a common theme among . Moreover, there is also a tendency for isolation. This could be a risk reducer to prevent predation. TODO: hiding/running during. Moving, driving, running. Hiding. Etc. 
 
 (Purely anecdotal) manifestations/measurements of primary anxiety are as follows: 
 * One's ability to speak continuously without a break for thought (eloquence)
