@@ -47,7 +47,7 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
 * One's typing speed compared to their baseline
 * One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which item to order, which laundromat to go to, which movie to watch)
 * One's ability to make sustained eye contact
-* One's sensitivity to pain and physical discomfort (hot, cold, dry, wet, etc.)
+* One's sensitivity to pain and physical discomfort (hot, cold, dry, wet, an itchy tag, something sharp in one's pocket, etc.)
 * One's ability to withhold information in the face of pressure
 * One's openness to: 
   *  Sharing resources (food, money, sponges, etc.)
