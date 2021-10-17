@@ -1,6 +1,6 @@
 # Preface
 
-If you have feedback on this essay or would like to chat, I spend most nights chatting with others from 9pm to 12am in Washington Square Park (I sit on the south side of the fountain on the benches that surround a tree). 
+If you have feedback on this essay or would like to chat, I spend most nights talking with friends, old and new, from 9pm to 12am in Washington Square Park (I sit on the south side of the fountain on the benches that surround a tree). 
 
 The psychological and physiological conclusions made here are conjecture unless a source is specifically provided. 
 
