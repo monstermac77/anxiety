@@ -31,7 +31,7 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 * Indecisiveness and fear of making the wrong decision
 * The inability to set aside or let go of a worry 
 
-When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources, environment, and life path. A common manifestation of this control is inflexibility and intolerance: those with moderate primary anxiety may attempt to control the actions of others in their life (especially roommates and partners) if they percieve those actions have even a slight negative impact on them. Those with severe primary anxiety may even demand control over the actions of others when said actions do not impact them at all, or they may have panic attacks when there are even small deviations from expectations. 
+When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources (which often manifests as excessive frugality), environment, and life path. A common manifestation of this control is inflexibility and intolerance: those with moderate primary anxiety may attempt to control the actions of others in their life (especially roommates and partners) if they percieve those actions have even a slight negative impact on them. Those with severe primary anxiety may even demand control over the actions of others when said actions do not impact them at all, or they may have panic attacks when there are even small deviations from expectations. 
 
 TODO: the opposite is confidence. Discuss confidence here.
 
