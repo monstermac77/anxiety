@@ -91,9 +91,10 @@ Footnotes:
 5. The Relationship Between Anxiety Disorders and Suicide Attempts: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940247/
 6. Generalized anxiety disorder, the Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803
 7. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
-8. TODO: The above average effect, include a note here.
-9. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
-10. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
-11. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
-12. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
-13. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
+8. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
+9. TODO: The above average effect, include a note here.
+10. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
+11. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
+12. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
+13. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
+14. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
