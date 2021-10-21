@@ -88,9 +88,9 @@ One also has a general reserve of self-confidence, which is in a sense a sum<sup
 
 Juxtaposed against primary anxiety where one feels as though they can't handle any additional hardship and must consciously and carefully calculate each outcome to ensure additional hardship is avoided, individuals who are self-confident feel as though they can weather most storms life throws their way. Thus, the larger one's self-confidence, the less hesitation they act with. As a corollary, then, self-confidence can be equated to the ease with which one can act/speak based on an observation or piece of data. This can approach the point where certain acts are so automatic that they feel like instinct and require no conscious intervention of thought (for many of us who have reached adulthood, we have gotten to the point where walking, for instance, is autonomic). With practice, it seems any skill can reach this level of automaticity (playing soccer, a piano, etc.)
 
-# Intelligence's role
+# Intelligence
 
-Intelligence plays a rather interesting role in one's experience of primary anxiety. Intelligence can be thought of as the ability to draw a connection between two disparate pieces of data, events, people, etc (a good example is the ability to manufacture analogies). Confidence sits orthagonally to intelligence (imagine an x-y plane, with vapidity and intelligence on the x axis and intelligence and anxiety on the y axis), and as discussed earlier is the ease with which one can act/speak on data (the connections noticed/made by the intelligence). 
+Intelligence plays a rather interesting role in one's experience of primary anxiety. Intelligence can be thought of as the ability to observe details and draw a connection between two disparate pieces of data, events, people, etc (a good example is the ability to manufacture analogies). Confidence sits orthagonally to intelligence (imagine an x-y plane, with vapidity and intelligence on the x-axis and intelligence and anxiety on the y-axis), and as discussed earlier is the ease with which one can act/speak on data (the details/connections noticed/made by the intelligence). 
 
 ## Footnotes
 
