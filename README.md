@@ -90,7 +90,7 @@ Juxtaposed against primary anxiety where one feels as though they can't handle a
 
 # Intelligence
 
-Intelligence plays a rather interesting role in one's experience of primary anxiety. Intelligence can be thought of as the ability to observe details and draw a connection between two disparate pieces of data, events, people, etc (a good example is the ability to manufacture analogies). Confidence sits orthagonally to intelligence (imagine an x-y plane, with vapidity and intelligence on the x-axis and intelligence and anxiety on the y-axis), and as discussed earlier is the ease with which one can act/speak on data (the details/connections noticed/made by the intelligence). 
+Intelligence plays a rather interesting role in one's experience of primary anxiety. Intelligence can be thought of as the ability to observe details and draw a connection between two disparate pieces of data, events, people, etc. (a good example is the ability to manufacture analogies). Confidence sits orthagonally to intelligence (imagine an x-y plane, with vapidity and intelligence on the x-axis and intelligence and anxiety on the y-axis), and as discussed earlier is the ease with which one can act/speak on data (the details/connections noticed/made by the intelligence). 
 
 ## Footnotes
 
