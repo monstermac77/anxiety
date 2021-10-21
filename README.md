@@ -33,7 +33,7 @@ One can think of primary anxiety as a pre-disorder form of Generalized Anxiety D
 
 When in a state of primary anxiety, one acts as though they can't handle any additional hardship. This results in a fortification of control over one's resources (which often manifests as excessive frugality), environment, and life path. A common manifestation of this control is inflexibility and intolerance: those with moderate primary anxiety may attempt to control the actions of others in their life (especially roommates and partners) if they percieve those actions have even a slight negative impact on them. Those with severe primary anxiety may even demand control over the actions of others when said actions do not impact them at all, or they may have panic attacks when there are even small deviations from expectations. 
 
-Confidence and anxiety appear to be inversely proportional. That is, full confidence is the absense of anxiety, and anxiety is the absense of confidence.
+Self-confidence and anxiety appear to be inversely proportional. That is, full confidence is the absense of anxiety, and severe anxiety is the absense of confidence. Although it's common to think of self-confidence as a scalar value, it should really be seen as a confidence interval (a range, commonly used in statistics). Higher self-confidence in a task then means a tighter range within which it's believed one's true ability falls. Over-confidence then would be when it's consistently found that one's true ability was not found to be within this confidence interval (in particular, it was found that the entire confidence interval, including the lower bound, was higher than the true value). 
 
 TODO: the opposite is confidence. Discuss confidence here.
 
