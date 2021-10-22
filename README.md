@@ -52,7 +52,8 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
   *  Trying new foods
   *  Trying new activities
   *  Going new places
-  *  Spontaneity 
+  *  Spontaneity
+  *  Procrastination 
   *  Being patient
   *  Dancing
   *  Making jokes
