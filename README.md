@@ -109,12 +109,12 @@ TODO: Investigate the [Default Mode Network](https://en.wikipedia.org/wiki/Defau
 7. Generalized anxiety disorder, the Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803
 8. When taking a typing test, an interesting positive feedback loop can occur that reduces speed: a mistake is made, which induces a small amount of anxiety, which in turn distracts the brain and causes hesitation or another mistake to be made, which in turn adds to the anxiety, ad infinitum until conscious thought is able  intervene and calm the nerves. 
 9. Being able to procrastinate appears to be a sign of a currently healthy mind. When primary anxiety has taken hold, one's priorities are often to appease the anxiety unease (by getting important things done) over enjoying the moment (procrastinating). This is likely because it feels as though the moment can't be optimally enjoyed until the unease is lifted, so it's better to get rid of the unease before trying to enjoy the moment. The issue is this instinct needs to be fought, not embraced, in order to lift the unease: endeavoring to improve the condition of one's future at the cost of one's present will only exacerbate the anxiety, making it even harder to recover (another positive feedback loop). 
-10. In the same way a CPU advances the state of a computer to perform calculations; it's clock ticking at a regular interval, advancing the flow of electricity from the hard drive, to RAM, to registers on the CPU die. 
-11. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
-16. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
+10. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
+11. In the same way a CPU advances the state of a computer to perform calculations; it's clock ticking at a regular interval, advancing the flow of electricity from the hard drive, to RAM, to registers on the CPU die. 
+12. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
+13. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
+14. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
+15. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
+16. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
 17. TODO: The above average effect, include a note here.
-18. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
-19. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
-20. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
-21. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
-22. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
+18. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
