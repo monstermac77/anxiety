@@ -96,6 +96,8 @@ Intelligence plays a rather interesting role in one's experience of primary anxi
 
 Humor is a great example of where self-confidence and intelligence combine. Seasoned comedians specifically are incredibly quick-witted, a testament to their self-confidence (they don't have to hesitate when acting on a piece of information). At their base, jokes often rely on connecting two (conventionally) disparate pieces of data; and the act of the listener discovering that connection for themselves ("getting" a joke) is what's amusing. It's no wonder, then, that being funny is a desirable characteristic in a partner: it's a testament to two important factors (intelligence and self-confidence).
 
+TODO: Investigate the [Default Mode Network](https://en.wikipedia.org/wiki/Default_mode_network) and potentially [investigate SSRI's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7708665/) impact on DMN activity. 
+
 ## Footnotes
 
 1. This terminology is derived from "primary hypertension"/"essential hypertension", which is used to describe hypertension which is "of unknown origin". Primary anxiety that begins to interfere with daily life would likely be classified as Generalized Anxiety Disorder. Guyton and Hall Textbook of Medical Physiology, page 240. 
