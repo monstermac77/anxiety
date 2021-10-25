@@ -64,6 +64,8 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
   * That medication has been taken
   * That items have not been left behind
 
+It's remarkably natural to fall victim to the third-cause fallacy when attempting to determine the cause of the anxiety. That is, one may think that because an individual has decreased outgoingness and begun to display other symptoms listed above, that these are the _reasons_ that they are anxious and a reversal of these symptoms will resolve the anxiety. However, the relationship between these symptoms and the anxiety are actually spurious; they are caused by a third, unseen variable (for instance, an emotionally abusive partner) that is inducing both the anxiety and these symptoms.
+
 # Treatment
 
 Neuroplasticity sits at the core of treatement for primary anxiety, but it's important to recognize that, like many biological systems, changes take effort over time. Thus, while treatment is underway, it's imperative that the patient is made as comfortable as possible so that unnecessary pain is avoided (in the same way one with a broken leg rests until using it no longer causes pain) and their desires, however unreasonable, are catered to. For instance, say your partner, who is currently suffering from severe primary anxiety, prefers to drink Coke over Pepsi. If you take them out to dinner and the restauraunt only has Pepsi, you don't simply ask them if another drink is acceptable; you should suggest going to a different restauraunt (as unreasonable as that may seem). Even this unexpected event of not having Coke and having to change plans may still be very distressing to your partner, so constant reassurance is needed that they're all right.
