@@ -42,7 +42,7 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
 (Purely anecdotal) manifestations/measurements of primary anxiety are as follows: 
 * One's ability to speak/write continuously without a break for thought (eloquence)
 * One's comfort with sitting in silence with their thoughts without taking action, speaking, or consuming media (television, music, a podcast, etc.)
-* One's typing speed compared to their baseline
+* One's typing speed compared to their baseline<sup>6</sup>
 * One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which item to order, which laundromat to go to, which movie to watch)
 * One's ability to make sustained eye contact
 * One's sensitivity to pain and physical discomfort (hot, cold, dry, wet, an itchy tag, something sharp in one's pocket, etc.)
@@ -96,7 +96,7 @@ Intelligence plays a rather interesting role in one's experience of primary anxi
 
 Humor is a great example of where self-confidence and intelligence combine. Seasoned comedians specifically are incredibly quick-witted, a testament to their self-confidence (they don't have to hesitate when acting on a piece of information). At their base, jokes often rely on connecting two (conventionally) disparate pieces of data; and the act of the listener discovering that connection for themselves ("getting" a joke) is what's amusing. It's no wonder, then, that being funny is a desirable characteristic in a partner: it's a testament to two important factors (intelligence and self-confidence).
 
-TODO: Investigate the [Default Mode Network](https://en.wikipedia.org/wiki/Default_mode_network) and potentially [investigate SSRI's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7708665/) impact on DMN activity. 
+TODO: Investigate the [Default Mode Network](https://en.wikipedia.org/wiki/Default_mode_network), its role in anxiety, and potentially [investigate SSRI's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7708665/) impact on DMN activity. 
 
 ## Footnotes
 
@@ -106,13 +106,14 @@ TODO: Investigate the [Default Mode Network](https://en.wikipedia.org/wiki/Defau
 3. According to Maslow's hierarchy, "deficiency needs" are the four bottom-most layers of the hierarchy: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 4. The relationships between perfectionism, pathological worry and generalised anxiety disorder. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4234287/
 5. In the same way a CPU advances the state of a computer to perform calculations; it's clock ticking at a regular interval, advancing the flow of electricity from the hard drive, to RAM, to registers on the CPU die.
-6. The Relationship Between Anxiety Disorders and Suicide Attempts: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940247/
-7. Generalized anxiety disorder, the Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803
-8. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
-9. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
-10. TODO: The above average effect, include a note here.
-11. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
-12. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
-13. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
-14. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
-15. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
+6. When taking a typing test, an interesting positive feedback loop can occur that reduces speed: a mistake is made, which induces a small amount of anxiety, which in turn distracts the brain and causes hesitation or another mistake to be made, which in turn adds to the anxiety, ad infinitum until conscious thought is able  intervene and calm the nerves. 
+7. The Relationship Between Anxiety Disorders and Suicide Attempts: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940247/
+8. Generalized anxiety disorder, the Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803
+9. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
+10. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
+11. TODO: The above average effect, include a note here.
+12. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
+13. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
+14. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
+15. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
+16. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
