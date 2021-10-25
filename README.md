@@ -53,7 +53,7 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
   *  Trying new activities
   *  Going new places
   *  Spontaneity
-  *  Procrastinating
+  *  Procrastinating<sup>7</sup>
   *  Being patient
   *  Dancing
   *  Making jokes
@@ -107,13 +107,14 @@ TODO: Investigate the [Default Mode Network](https://en.wikipedia.org/wiki/Defau
 4. The relationships between perfectionism, pathological worry and generalised anxiety disorder. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4234287/
 5. In the same way a CPU advances the state of a computer to perform calculations; it's clock ticking at a regular interval, advancing the flow of electricity from the hard drive, to RAM, to registers on the CPU die.
 6. When taking a typing test, an interesting positive feedback loop can occur that reduces speed: a mistake is made, which induces a small amount of anxiety, which in turn distracts the brain and causes hesitation or another mistake to be made, which in turn adds to the anxiety, ad infinitum until conscious thought is able  intervene and calm the nerves. 
-7. The Relationship Between Anxiety Disorders and Suicide Attempts: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940247/
-8. Generalized anxiety disorder, the Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803
-9. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
-10. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
-11. TODO: The above average effect, include a note here.
-12. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
-13. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
-14. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
-15. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
-16. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
+7. Being able to procrastinate appears to be a sign of a currently healthy mind. When primary anxiety has taken hold, one's priorities are often to appease the anxiety unease (by getting important things done) over enjoying the moment (procrastinating). This is likely because it feels as though the moment can't be optimally enjoyed until the unease is lifted, so it's better to get rid of the unease before trying to enjoy the moment. The issue is this instinct needs to be fought, not embraced, in order to lift the unease: endeavoring to improve the condition of one's future at the cost of one's present will only exacerbate the anxiety, making it even harder to recover (another positive feedback loop). 
+8. The Relationship Between Anxiety Disorders and Suicide Attempts: Findings from the National Epidemiologic Survey on Alcohol and Related Conditions. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940247/
+9. Generalized anxiety disorder, the Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803
+10. "Acid Test": The case for using psychedelics to treat PTSD, depression. https://www.washingtonpost.com/lifestyle/magazine/acid-test-the-case-for-using-psychedelics-to-treat-ptsd-depression/2014/09/04/03c3c222-0e01-11e4-8c9a-923ecc0c7d23_story.html
+11. TODO: include note about how it's actually more like the sum of the inverse differences, because the smaller the intervals are, the higher the sum should be. 
+12. TODO: The above average effect, include a note here.
+13. This could still be a spectrum though, it could just be that it's a matter of how long you can go before you feel anxious with your thoughts. Severe anxiety would have it be 10-15 seconds during passive activities. 
+14. The Mind, Explained: Psychedelics. https://www.netflix.com/watch/81062192
+15. The Mind, Explained: Mindfullness. https://www.netflix.com/watch/81062191
+16. Altered anterior insula activation during anticipation and experience of painful stimuli in expert meditators. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787201/
+17. Anticipatory activation in the amygdala and anterior cingulate in generalized anxiety disorder and prediction of treatment response. https://pubmed.ncbi.nlm.nih.gov/19122007/
