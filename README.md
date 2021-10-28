@@ -62,7 +62,7 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
   * That medication has been taken
   * That items have not been left behind
 
-It's remarkably natural to fall victim to the third-cause fallacy when attempting to determine the cause of primary anxiety. In particular, one may think that because an individual has decreased outgoingness and begun to display other symptoms listed above and generally fortified control over one's life, that means these are the _reasons_ that they are anxious (and a reversal of these symptoms will resolve the primary anxiety). However, the relationship between these symptoms and the anxiety are actually spurious; they are often caused by a third, unseen variable (for instance, an emotionally abusive partner) that is inducing both the anxiety and these symptoms.
+It's remarkably natural to fall victim to the third-cause fallacy when attempting to determine the cause of primary anxiety. In particular, one may think that because an individual has decreased outgoingness and begun to display other symptoms listed above and generally fortified control over one's life, that means these are the _reasons_ that they are anxious (and a reversal of these symptoms will resolve the primary anxiety). However, the relationship between these symptoms and the anxiety is actually spurious; they are often caused by a third, unseen variable (for instance, an emotionally abusive partner) that is inducing both the anxiety and these symptoms.
 
 # Treatment
 
