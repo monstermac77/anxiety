@@ -41,7 +41,7 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
 * One's ability to speak/write continuously without a break for thought (eloquence)
 * One's comfort with sitting in silence with their thoughts without taking action, speaking, or consuming media (television, music, a podcast, etc.)
 * One's typing speed compared to their baseline<sup>8</sup>
-* One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which item to order, which laundromat to go to, which movie to watch)
+* One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which dish to order at a restauraunt, which laundromat to go to, which movie to watch)
 * One's ability to make sustained eye contact
 * One's sensitivity to pain and physical discomfort (hot, cold, dry, wet, an itchy tag, something sharp in one's pocket, etc.)
 * One's ability to withhold information in the face of pressure
