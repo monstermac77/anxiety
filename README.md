@@ -47,6 +47,7 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
 * One's sensitivity to pain and physical discomfort (hot, cold, dry, wet, an itchy tag, something sharp in one's pocket, etc.)
 * One's ability to withhold information in the face of pressure
 * One's comfort with sitting in silence in the company of others (i.e. not having the urge to speak during silences)
+* One's sensitivity to waking up from small disturbances when asleep
 * One's openness to: 
   *  Sharing resources (food, money, sponges, etc.)
   *  Trying new foods
