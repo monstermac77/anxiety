@@ -38,7 +38,8 @@ For those who have not experienced severe primary anxiety first-hand, it can be 
 Anecdotally, it appears as though a common theme among many of the severely anxious mind's proposed solutions is movement. Whether it's the anxiety abating after a run, or while driving between locations, or flying to California, or deciding to move back in with your parents: it appears as though the act of deciding and the subsequent movement acts as a major temporary reliever of the anxiety. It'd stand to reason that this could be a consequence of the body's "flight" response. That is, organisms that, when experiencing an anxiety response, responded with movement were more likely to survive and reproduce, and therefore we inherited this trait. Moreover, another theme is the complete opposite: an avoidance of all unnecessary movement, and the desire for isolation and energy conservation (not leaving one's apartment, not attending events with friends, wanting deliveries instead of having to go pick something up at the store). This could be a risk reducer, that is, essentially a "hiding" response, to reduce the risk of predation. Depending on the scenario, one of these responses, either running or hiding, is likely to be evolutionarily advantageous. 
 
 (Purely anecdotal) manifestations/measurements of primary anxiety are as follows: 
-* One's ability to speak/write continuously without a break for thought (eloquence)
+* One's ability to speak/write/read aloud continuously without a break for thought (eloquence)
+* One's ability to type/write what someone is quickly reading/spelling without repetition (e.g. their name, address, phone number; in a sense, transcriptive eloquence) 
 * One's comfort with sitting in silence with their thoughts without taking action, speaking, or consuming media (television, music, a podcast, etc.)
 * One's typing speed compared to their baseline<sup>8</sup>
 * One's ability to decide where to go or what to purchase among multiple options (e.g. which vaccum cleaner to choose, which dish to order at a restauraunt, which laundromat to go to, which movie to watch)
@@ -61,6 +62,9 @@ Anecdotally, it appears as though a common theme among many of the severely anxi
   * That doors are locked
   * That medication has been taken
   * That items have not been left behind
+* One's concern with: 
+  * Backing up work/data regularly to avoid loss (e.g. electronic backups)
+  * Privacy and security (electronic or otherwise). 
 
 It's remarkably natural to fall victim to the third-cause fallacy when attempting to determine the cause of primary anxiety. In particular, one may think that because an individual has decreased outgoingness and begun to display other symptoms listed above and generally fortified control over one's life, that means these are the _reasons_ that they are anxious (and a reversal of these symptoms will resolve the primary anxiety). However, the relationship between these symptoms and the anxiety is actually spurious; they are often caused by a third, unseen variable (for instance, an emotionally abusive partner) that is inducing both the anxiety and these symptoms.
 
