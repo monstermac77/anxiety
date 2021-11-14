@@ -1,6 +1,6 @@
 # Preface
 
-If you have feedback on this essay or would like to chat, I spend most nights talking with other New Yorkers from 9:31pm to 12am in Washington Square Park (I sit on the southwest side of the fountain on the granite benches). I'm the guy with the dog.
+If you have feedback on this essay or would like to chat, I spend most nights talking with other New Yorkers from 9:31pm (3^2, 3^1, 3^0) to 12am in Washington Square Park (I sit on the southwest side of the fountain on the granite benches). I'm the guy with the dog.
 
 Humanity has a tendency to distance itself from the rest of the animal kingdom, as if there was some bifurcation in our evolutionary paths long ago. But Homo sapiens have walked the earth for 300,000 years, compared to the 3,500,000,000 years that life has evolved on earth; that means that 99.991% of our natural selection is still shared. It seems reasonable, then, to interpret much of human behavior through an evolutionary lens. Our habits, our responses to stimuli, our behavior, is likely no different at its core from that of our evolutionary predecessors.
 
